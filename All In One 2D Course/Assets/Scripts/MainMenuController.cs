@@ -17,6 +17,10 @@ public class MainMenuController : MonoBehaviour
     }
     public void NumberWizardButton()
     {
-        GameController.instance.LoadScene("NumberWizardGame");
+        GameController.instance.LoadScene(Player.SceneTypes.NumberWizard.ToString());
+    }
+    public void BreakoutButton()
+    {
+        GameController.instance.LoadScene(Player.SceneTypes.Breakout.ToString());
     }
 }

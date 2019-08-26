@@ -1,0 +1,4243 @@
+fileFormatVersion: 2
+guid: 1b8927df267ed8b42acfef961bedf154
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3803407554438420172
+    second: digimonicons-sheet_0
+  - first:
+      213: 4689629456790359791
+    second: digimonicons-sheet_1
+  - first:
+      213: -5862015278415317028
+    second: digimonicons-sheet_2
+  - first:
+      213: -5074377616052662741
+    second: digimonicons-sheet_3
+  - first:
+      213: -3737895219632580089
+    second: digimonicons-sheet_4
+  - first:
+      213: 7621619484714403076
+    second: digimonicons-sheet_5
+  - first:
+      213: -4540562512462390683
+    second: digimonicons-sheet_6
+  - first:
+      213: -7150946921704445584
+    second: digimonicons-sheet_7
+  - first:
+      213: 5295077762647087057
+    second: digimonicons-sheet_8
+  - first:
+      213: 3640499791247928586
+    second: digimonicons-sheet_9
+  - first:
+      213: -6163077193287946566
+    second: digimonicons-sheet_10
+  - first:
+      213: -4511011380170605375
+    second: digimonicons-sheet_11
+  - first:
+      213: -4971540580168069330
+    second: digimonicons-sheet_12
+  - first:
+      213: -4040568758247476682
+    second: digimonicons-sheet_13
+  - first:
+      213: -8735997283208177618
+    second: digimonicons-sheet_14
+  - first:
+      213: 3865312644777022872
+    second: digimonicons-sheet_15
+  - first:
+      213: 2645674339439109984
+    second: digimonicons-sheet_16
+  - first:
+      213: 6347394089368482284
+    second: digimonicons-sheet_17
+  - first:
+      213: 9211617265369963044
+    second: digimonicons-sheet_18
+  - first:
+      213: -5404101138385038246
+    second: digimonicons-sheet_19
+  - first:
+      213: 3843450924859036212
+    second: digimonicons-sheet_20
+  - first:
+      213: 2912472769625089833
+    second: digimonicons-sheet_21
+  - first:
+      213: -4195178673310538918
+    second: digimonicons-sheet_22
+  - first:
+      213: -4300385741131725110
+    second: digimonicons-sheet_23
+  - first:
+      213: 1158526654244674648
+    second: digimonicons-sheet_24
+  - first:
+      213: -3953284789823960720
+    second: digimonicons-sheet_25
+  - first:
+      213: 7721012083715049394
+    second: digimonicons-sheet_26
+  - first:
+      213: -5029867066138983758
+    second: digimonicons-sheet_27
+  - first:
+      213: -2468186528111923613
+    second: digimonicons-sheet_28
+  - first:
+      213: -4481045290118523889
+    second: digimonicons-sheet_29
+  - first:
+      213: -2156827185952770118
+    second: digimonicons-sheet_30
+  - first:
+      213: 7716472762937931139
+    second: digimonicons-sheet_31
+  - first:
+      213: -5235480283627578772
+    second: digimonicons-sheet_32
+  - first:
+      213: -4805230101908364926
+    second: digimonicons-sheet_33
+  - first:
+      213: 8468387490176751062
+    second: digimonicons-sheet_34
+  - first:
+      213: -7828183068541400586
+    second: digimonicons-sheet_35
+  - first:
+      213: -332665154999219873
+    second: digimonicons-sheet_36
+  - first:
+      213: 8334364825540578197
+    second: digimonicons-sheet_37
+  - first:
+      213: 8579623129936530640
+    second: digimonicons-sheet_38
+  - first:
+      213: 3260021136922513351
+    second: digimonicons-sheet_39
+  - first:
+      213: -5608660058847254946
+    second: digimonicons-sheet_40
+  - first:
+      213: -3253169075683359198
+    second: digimonicons-sheet_41
+  - first:
+      213: -7751388205044406881
+    second: digimonicons-sheet_42
+  - first:
+      213: -1320193076809494451
+    second: digimonicons-sheet_43
+  - first:
+      213: 9217945983035730895
+    second: digimonicons-sheet_44
+  - first:
+      213: 441610946159334811
+    second: digimonicons-sheet_45
+  - first:
+      213: -1540047225174657247
+    second: digimonicons-sheet_46
+  - first:
+      213: 5645144301415615804
+    second: digimonicons-sheet_47
+  - first:
+      213: 8914573116477851948
+    second: digimonicons-sheet_48
+  - first:
+      213: 3490756164333475498
+    second: digimonicons-sheet_49
+  - first:
+      213: -8954043056905883831
+    second: digimonicons-sheet_50
+  - first:
+      213: 6341891022466335703
+    second: digimonicons-sheet_51
+  - first:
+      213: -6213646526284363778
+    second: digimonicons-sheet_52
+  - first:
+      213: 630057644659109379
+    second: digimonicons-sheet_53
+  - first:
+      213: 6644809564922894492
+    second: digimonicons-sheet_54
+  - first:
+      213: -1614630569428737783
+    second: digimonicons-sheet_55
+  - first:
+      213: 6097521917817697453
+    second: digimonicons-sheet_56
+  - first:
+      213: -3408645486179481551
+    second: digimonicons-sheet_57
+  - first:
+      213: 6639892134704356023
+    second: digimonicons-sheet_58
+  - first:
+      213: -4148277361694923465
+    second: digimonicons-sheet_59
+  - first:
+      213: -5071908735798339612
+    second: digimonicons-sheet_60
+  - first:
+      213: -6128226420534321387
+    second: digimonicons-sheet_61
+  - first:
+      213: 6231417059238443079
+    second: digimonicons-sheet_62
+  - first:
+      213: 4540871314370614446
+    second: digimonicons-sheet_63
+  - first:
+      213: -1182261966756644369
+    second: digimonicons-sheet_64
+  - first:
+      213: 7997339210644424885
+    second: digimonicons-sheet_65
+  - first:
+      213: 6153745866019694279
+    second: digimonicons-sheet_66
+  - first:
+      213: -5275153673285948687
+    second: digimonicons-sheet_67
+  - first:
+      213: 8445203056996490853
+    second: digimonicons-sheet_68
+  - first:
+      213: -7511106146067394475
+    second: digimonicons-sheet_69
+  - first:
+      213: -748825345690757421
+    second: digimonicons-sheet_70
+  - first:
+      213: -8369591112803484069
+    second: digimonicons-sheet_71
+  - first:
+      213: -3150657414766456987
+    second: digimonicons-sheet_72
+  - first:
+      213: 2745771076941464710
+    second: digimonicons-sheet_73
+  - first:
+      213: 8429399484833394930
+    second: digimonicons-sheet_74
+  - first:
+      213: -527093577913051988
+    second: digimonicons-sheet_75
+  - first:
+      213: -1896840216673890695
+    second: digimonicons-sheet_76
+  - first:
+      213: 8181441627517769231
+    second: digimonicons-sheet_77
+  - first:
+      213: -6253459648554494008
+    second: digimonicons-sheet_78
+  - first:
+      213: -2006605698178681358
+    second: digimonicons-sheet_79
+  - first:
+      213: 6391764500335262381
+    second: digimonicons-sheet_80
+  - first:
+      213: 6378175133833427096
+    second: digimonicons-sheet_81
+  - first:
+      213: -2687463904328286069
+    second: digimonicons-sheet_82
+  - first:
+      213: -5522845229404199956
+    second: digimonicons-sheet_83
+  - first:
+      213: -7127663545699049082
+    second: digimonicons-sheet_84
+  - first:
+      213: -2533435401360576744
+    second: digimonicons-sheet_85
+  - first:
+      213: -5572151177340594992
+    second: digimonicons-sheet_86
+  - first:
+      213: -2305439432080714950
+    second: digimonicons-sheet_87
+  - first:
+      213: 486339160267705738
+    second: digimonicons-sheet_88
+  - first:
+      213: 5827420134392507483
+    second: digimonicons-sheet_89
+  - first:
+      213: -8734819775946760547
+    second: digimonicons-sheet_90
+  - first:
+      213: 6909326107241777569
+    second: digimonicons-sheet_91
+  - first:
+      213: -6090748625796594225
+    second: digimonicons-sheet_92
+  - first:
+      213: 1936951053753708588
+    second: digimonicons-sheet_93
+  - first:
+      213: 2485904579608936255
+    second: digimonicons-sheet_94
+  - first:
+      213: -8451055449376964967
+    second: digimonicons-sheet_95
+  - first:
+      213: -1595644681443064112
+    second: digimonicons-sheet_96
+  - first:
+      213: 1764303929794931874
+    second: digimonicons-sheet_97
+  - first:
+      213: 6788436629007459463
+    second: digimonicons-sheet_98
+  - first:
+      213: 8934317793946003889
+    second: digimonicons-sheet_99
+  - first:
+      213: 1686975975499992284
+    second: digimonicons-sheet_100
+  - first:
+      213: -2901226177376509745
+    second: digimonicons-sheet_101
+  - first:
+      213: 693225525336526875
+    second: digimonicons-sheet_102
+  - first:
+      213: 8570173673152457135
+    second: digimonicons-sheet_103
+  - first:
+      213: 6768161050391819000
+    second: digimonicons-sheet_104
+  - first:
+      213: -8869811355666013304
+    second: digimonicons-sheet_105
+  - first:
+      213: 5170019335488558188
+    second: digimonicons-sheet_106
+  - first:
+      213: 3533114802098584239
+    second: digimonicons-sheet_107
+  - first:
+      213: 5308230678970375953
+    second: digimonicons-sheet_108
+  - first:
+      213: -5029709869778452596
+    second: digimonicons-sheet_109
+  - first:
+      213: 1261828824471390092
+    second: digimonicons-sheet_110
+  - first:
+      213: 7323040295572146475
+    second: digimonicons-sheet_111
+  - first:
+      213: 2760775652274765842
+    second: digimonicons-sheet_112
+  - first:
+      213: -2358043041846050319
+    second: digimonicons-sheet_113
+  - first:
+      213: -8431787211061648114
+    second: digimonicons-sheet_114
+  - first:
+      213: -5938631922367376581
+    second: digimonicons-sheet_115
+  - first:
+      213: -8824439142342344890
+    second: digimonicons-sheet_116
+  - first:
+      213: -4242049978024981849
+    second: digimonicons-sheet_117
+  - first:
+      213: 2551911813514438161
+    second: digimonicons-sheet_118
+  - first:
+      213: 1647609380021169343
+    second: digimonicons-sheet_119
+  - first:
+      213: -1880898036688324705
+    second: digimonicons-sheet_120
+  - first:
+      213: -4750338633406462952
+    second: digimonicons-sheet_121
+  - first:
+      213: -6396258443087791361
+    second: digimonicons-sheet_122
+  - first:
+      213: 2034667979926338416
+    second: digimonicons-sheet_123
+  - first:
+      213: 5121600826057074784
+    second: digimonicons-sheet_124
+  - first:
+      213: 3385193761633340145
+    second: digimonicons-sheet_125
+  - first:
+      213: -3000394872367317939
+    second: digimonicons-sheet_126
+  - first:
+      213: -9211425316314585129
+    second: digimonicons-sheet_127
+  - first:
+      213: -5771680932276282715
+    second: digimonicons-sheet_128
+  - first:
+      213: -8176982130949489211
+    second: digimonicons-sheet_129
+  - first:
+      213: -7815511698374619385
+    second: digimonicons-sheet_130
+  - first:
+      213: 7187142959776157333
+    second: digimonicons-sheet_131
+  - first:
+      213: 7880497851331017764
+    second: digimonicons-sheet_132
+  - first:
+      213: 8408214174006921710
+    second: digimonicons-sheet_133
+  - first:
+      213: 6499486622245984091
+    second: digimonicons-sheet_134
+  - first:
+      213: -7253850259180040234
+    second: digimonicons-sheet_135
+  - first:
+      213: 2504358206743381364
+    second: digimonicons-sheet_136
+  - first:
+      213: 683446861094237944
+    second: digimonicons-sheet_137
+  - first:
+      213: 5527971074608279421
+    second: digimonicons-sheet_138
+  - first:
+      213: 8980281885721619688
+    second: digimonicons-sheet_139
+  - first:
+      213: -2827823114085176034
+    second: digimonicons-sheet_140
+  - first:
+      213: -6653466875436765830
+    second: digimonicons-sheet_141
+  - first:
+      213: 5963184469595513029
+    second: digimonicons-sheet_142
+  - first:
+      213: 1763494443916590763
+    second: digimonicons-sheet_143
+  - first:
+      213: 4569146198851801596
+    second: digimonicons-sheet_144
+  - first:
+      213: 842968378708672268
+    second: digimonicons-sheet_145
+  - first:
+      213: 378716836188097690
+    second: digimonicons-sheet_146
+  - first:
+      213: 3667228776057698171
+    second: digimonicons-sheet_147
+  - first:
+      213: 1050904197602796487
+    second: digimonicons-sheet_148
+  - first:
+      213: 5234146182168660850
+    second: digimonicons-sheet_149
+  - first:
+      213: -8930885329506095568
+    second: digimonicons-sheet_150
+  - first:
+      213: -5640321125371423986
+    second: digimonicons-sheet_151
+  - first:
+      213: 8646936110911048671
+    second: digimonicons-sheet_152
+  - first:
+      213: -2087475054129414357
+    second: digimonicons-sheet_153
+  - first:
+      213: 3499116111234821248
+    second: digimonicons-sheet_154
+  - first:
+      213: 754068252233982514
+    second: digimonicons-sheet_155
+  - first:
+      213: 3581376664695012673
+    second: digimonicons-sheet_156
+  - first:
+      213: 4125630853611700612
+    second: digimonicons-sheet_157
+  - first:
+      213: -3458170411500738642
+    second: digimonicons-sheet_158
+  - first:
+      213: 1047623196395519484
+    second: digimonicons-sheet_159
+  - first:
+      213: -3232958096213600309
+    second: digimonicons-sheet_160
+  - first:
+      213: 952531764551162394
+    second: digimonicons-sheet_161
+  - first:
+      213: 9107746490973858797
+    second: digimonicons-sheet_162
+  - first:
+      213: -6385228213344589468
+    second: digimonicons-sheet_163
+  - first:
+      213: -189465576717899426
+    second: digimonicons-sheet_164
+  - first:
+      213: 724027751430037776
+    second: digimonicons-sheet_165
+  - first:
+      213: -3374618465495392474
+    second: digimonicons-sheet_166
+  - first:
+      213: 5547033024800664641
+    second: digimonicons-sheet_167
+  - first:
+      213: -6322263619642630098
+    second: digimonicons-sheet_168
+  - first:
+      213: -2244410468398012305
+    second: digimonicons-sheet_169
+  - first:
+      213: -5244434270255169445
+    second: digimonicons-sheet_170
+  - first:
+      213: -4567805862706048022
+    second: digimonicons-sheet_171
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: digimonicons-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 427
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994727447ebcf974a8d87aef41eadf7b
+      internalID: 3803407554438420172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 427
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efc855f08fa20448aba55364157bbcc
+      internalID: 4689629456790359791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 429
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61de4cd18acd1944587ce84a5a3339a1
+      internalID: -5862015278415317028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 427
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7f21b5a2c45148be2b0b3c8bba1d6
+      internalID: -5074377616052662741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 427
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555dc6858454b942a3890bdbcf66d7a
+      internalID: -3737895219632580089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 427
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d714535d74360419340f851cab4da8
+      internalID: 7621619484714403076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 429
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd00b75784129b43a06372678fc384f
+      internalID: -4540562512462390683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 427
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728823ebcf9210c40b69d1c6a940e9fb
+      internalID: -7150946921704445584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 427
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ceca22d17427246b704632d23b0e7f
+      internalID: 5295077762647087057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 427
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b9fea999dfe684595f4213c7c0845e
+      internalID: 3640499791247928586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 427
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8535c5cc3aa52f46b2494e59affa919
+      internalID: -6163077193287946566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 427
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3d65be23c3e94caea6d1765915e1f
+      internalID: -4511011380170605375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 397
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7a21e6a5217341b02d06f6e37f7a7
+      internalID: -4971540580168069330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 397
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be9ebf09d412147b18cd113f4f57a6
+      internalID: -4040568758247476682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 397
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6bf393f931414f898110ff8f99c99
+      internalID: -8735997283208177618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 397
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1575cc03856524ea96675b5e2e9eb8
+      internalID: 3865312644777022872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 397
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a8f2bcbff45bc4690cf690365fb8c2
+      internalID: 2645674339439109984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 397
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5feaf2c19bdbc48a492b6b89df14ae
+      internalID: 6347394089368482284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 397
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a797b6ec7849854fb402bdeed4a73fe
+      internalID: 9211617265369963044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03ff9afddc8daa4a882ce5981cbdaac
+      internalID: -5404101138385038246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 398
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111a6e291b89f14b905ca0ac4c78cf9
+      internalID: 3843450924859036212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 397
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b29a2921aa0184aa7773a79eadb8b0
+      internalID: 2912472769625089833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 397
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b2e251d4558f24390b853fdbe50f08
+      internalID: -4195178673310538918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 397
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e98a099e666547b9e351f05f025fd
+      internalID: -4300385741131725110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 367
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c1cb7af72bae4c943bbba8710387e
+      internalID: 1158526654244674648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 367
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c0126e389face419c7b86de049321c
+      internalID: -3953284789823960720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 367
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b8d1c8e4162f4aa14e5ff67e26ab8
+      internalID: 7721012083715049394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 367
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607092189754a974fb53e6b08c4c7ef8
+      internalID: -5029867066138983758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 367
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1411d452f8f4b4885b178ae5cb061e
+      internalID: -2468186528111923613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 367
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3fd2a23161c549a74dcaa115a6681
+      internalID: -4481045290118523889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 367
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d717a3c02e582449309668c05698db
+      internalID: -2156827185952770118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 367
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a9def21b51719439cca15cc5b1d7f6
+      internalID: 7716472762937931139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 367
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320d491f95f9c0c45a059a27e7638b63
+      internalID: -5235480283627578772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 367
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8b09147b86d54fb2fdc792d3a1182
+      internalID: -4805230101908364926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 367
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52febec6e85724987e8d2864fbc818
+      internalID: 8468387490176751062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 367
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033eaf6700bdcd24684b297df8704bc5
+      internalID: -7828183068541400586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9d7f6866571c4f9475ff52d590ed0
+      internalID: -332665154999219873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac222497fd50d46ae795d93a93ddea
+      internalID: 8334364825540578197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 337
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f06de003d62e7429637c7623682a38
+      internalID: 8579623129936530640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82156ea3021a2c5418f07ae93e89c4d6
+      internalID: 3260021136922513351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 337
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd2532542e7fd458834ec6f728348b
+      internalID: -5608660058847254946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 337
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d5665825057d54fb8c1b9c18f3a376
+      internalID: -3253169075683359198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 337
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889339544ef4e134993702125bdf18af
+      internalID: -7751388205044406881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf1f712c78b2247b15a235d5ef38da
+      internalID: -1320193076809494451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96107bdcbd2f967478ca6b541c8a3e93
+      internalID: 9217945983035730895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7687d0e6b25047b8fb2c902015ca6
+      internalID: 441610946159334811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 338
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca68cf353a0f3584ab1be21354194348
+      internalID: -1540047225174657247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab7b45b01d29dd4cb98fe848f348071
+      internalID: 5645144301415615804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61103fddb4f1d42a6e32e3d7b44972
+      internalID: 8914573116477851948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 307
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4418a28775995f4786b1f77cbb4dccd
+      internalID: 3490756164333475498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 307
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f0448e0be27141afe982f186fd520
+      internalID: -8954043056905883831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 307
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0b70e1aa319a44b9ad301c14bdcc8
+      internalID: 6341891022466335703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aee760026233dd4d9d1fc220f616b1e
+      internalID: -6213646526284363778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1cf7de782784b41b6553c170bf0710
+      internalID: 630057644659109379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b983172d0aea6014eb8978da8c18a5f8
+      internalID: 6644809564922894492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 307
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0423a914681c544acb539308c3038c
+      internalID: -1614630569428737783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 307
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376d1025055dd7c499a098aaee01d91d
+      internalID: 6097521917817697453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 307
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0960470cb7da746814876da0091d9a
+      internalID: -3408645486179481551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799de8ba369f1364fb52ee9f434660a0
+      internalID: 6639892134704356023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 307
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661df66bec5e5e04180524be3e25732e
+      internalID: -4148277361694923465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1c3d1bd8f5fd4a8cd2204463537a5
+      internalID: -5071908735798339612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 277
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5c4091ced51b40bfeadc756c546ba
+      internalID: -6128226420534321387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 277
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb7ceb374ce5ac4eb7d2f3503b52f43
+      internalID: 6231417059238443079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe728ef1b7e7745af1ae4b033198aa
+      internalID: 4540871314370614446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f303a183fd757d438f3d42ae6be570c
+      internalID: -1182261966756644369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 277
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31bb7b81579b64f8ae0e2eb111dbec
+      internalID: 7997339210644424885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e81d507aec3464aa2527924c217e74
+      internalID: 6153745866019694279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2908f621ef03e4fba4be21b96fcf1e
+      internalID: -5275153673285948687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 277
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec3357e56a61274aa6cb90410f91d84
+      internalID: 8445203056996490853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85867ec74149dd044969198acf734802
+      internalID: -7511106146067394475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 277
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf506a884e085904fa03a271c042b209
+      internalID: -748825345690757421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79dfa52569f9484bb3e3600aedcade3
+      internalID: -8369591112803484069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d9d3c71ebd3374c912368b37c57078
+      internalID: -3150657414766456987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 247
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d5b57d8422a3745b36686fe1b5188f
+      internalID: 2745771076941464710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a118024e260904eb6f117d3100da3f
+      internalID: 8429399484833394930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39070cee367de44a531d52f2658f6e
+      internalID: -527093577913051988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48f80a766245ca4cb734172d9678bf7
+      internalID: -1896840216673890695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587791c1a9de324cb9fd8cd5cd2853d
+      internalID: 8181441627517769231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 247
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb1048fe0a2984484355739b3a728e
+      internalID: -6253459648554494008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39c3a84eae116b4685ba29d4ae966a2
+      internalID: -2006605698178681358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 247
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78967da562272d540b76d383fad827ee
+      internalID: 6391764500335262381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 247
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfccb3b51c85d814eb2ef115ff840309
+      internalID: 6378175133833427096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7baf4b3b6e537140b49e9582b6b19cc
+      internalID: -2687463904328286069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 247
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b10fd87a79a8b42a1d49153301fdd4
+      internalID: -5522845229404199956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 217
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab73da75239e2c49bd1ef7beafcc716
+      internalID: -7127663545699049082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 217
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9674cfab3e4f3549a3d73b383fa1345
+      internalID: -2533435401360576744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9aba9b4d7acb94babc73e24ef436c0
+      internalID: -5572151177340594992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8dda60aa887b84cb5655d7ff378e49
+      internalID: -2305439432080714950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 217
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c25fd48757cb4597d3cf77f0fcbf6
+      internalID: 486339160267705738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f239dbf19457e44a560f00320066a2
+      internalID: 5827420134392507483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 217
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3286c2ab162a49886a84c958a8526
+      internalID: -8734819775946760547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183bbcc150395a2429d86172f6e7787b
+      internalID: 6909326107241777569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 218
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f762eb872ca34ba1a4b6112c6ade7
+      internalID: -6090748625796594225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2229c928e8bfc6c4d9ecb019aa52e49c
+      internalID: 1936951053753708588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 217
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac8a979c2b7ea4cb325484b20311f4
+      internalID: 2485904579608936255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca3d0b46ce853a40bd8ab2945a5c939
+      internalID: -8451055449376964967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 188
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a507269b1797e4cb3ca0eacf49a102
+      internalID: -1595644681443064112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 187
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9fb9a4744d414458325994a41252b3
+      internalID: 1764303929794931874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d582331b7475c1429410048529ecdf0
+      internalID: 6788436629007459463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdfab91d17c5fc49bd0862c11869d36
+      internalID: 8934317793946003889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9faf974770bab489830b018e6040ef
+      internalID: 1686975975499992284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202aeefba5956e849900f44c5426be0b
+      internalID: -2901226177376509745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d69e163430ff41a312161595923e9
+      internalID: 693225525336526875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b5b9bc12cf7a4ba1ed92f40bdbada
+      internalID: 8570173673152457135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 188
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df057ca4bdea4a49ab95a8d75fd0a66
+      internalID: 6768161050391819000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c201b8771bf340944318f14f7edfd
+      internalID: -8869811355666013304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 187
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d04645713700f84893b9c507961107c
+      internalID: 5170019335488558188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05c1c5d4fe1804aba82e8e2b449ead
+      internalID: 3533114802098584239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 157
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad79c6b29af0440a6e78885026478a
+      internalID: 5308230678970375953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c051647ff8db4395fa2a4bb210b6c
+      internalID: -5029709869778452596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df266275e91658e47b231f7fb4076548
+      internalID: 1261828824471390092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609d3d3f267c5834ba1d28391e458316
+      internalID: 7323040295572146475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda2c5dc560c924094e311bd93bd0f9
+      internalID: 2760775652274765842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f20bcaa2b5f774b915ea6ebae17b5a
+      internalID: -2358043041846050319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03de88208ca4674ca18f3cd88e4a53b
+      internalID: -8431787211061648114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 158
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168cf0cf9de21c8418d0dceb86c87a4a
+      internalID: -5938631922367376581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16b8b856c2d7b4d949a0675756167d
+      internalID: -8824439142342344890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c92fdda4b33a4b80afb8811860860
+      internalID: -4242049978024981849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfae86f87460be459b49853d64f78e9
+      internalID: 2551911813514438161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7f17725d29b946a71181f8007c8e1
+      internalID: 1647609380021169343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e016abe4195890f4595f073b5d357c62
+      internalID: -1880898036688324705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af82d6f9f6c2ee4d8facdff941c2230
+      internalID: -4750338633406462952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2499e66c77bcde74c9787fc0e2a2445d
+      internalID: -6396258443087791361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c0e2a61119554bb826293e091fa7c
+      internalID: 2034667979926338416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 127
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e511fdb18cd6f4893dddce7e1d7c5f
+      internalID: 5121600826057074784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 127
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491aace6ba2eb254888890c595a7e375
+      internalID: 3385193761633340145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bc567465a6694498d62855dc0ea1e4
+      internalID: -3000394872367317939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b72744420d2ced4ea7ee7f886f641b8
+      internalID: -9211425316314585129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 127
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f102d02ac4ba704880f087f04e1ff08
+      internalID: -5771680932276282715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1775c9c644b3c2a49a5357ee67f34c25
+      internalID: -8176982130949489211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eec2ed649706a94682b31e6344bcb84
+      internalID: -7815511698374619385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44ab2f53ad9854589036c9ad9d0502
+      internalID: 7187142959776157333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 99
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3635a73fde18829438c24ac3ae5f0cbf
+      internalID: 7880497851331017764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398540ac20287a438a28e10df59c58e
+      internalID: 8408214174006921710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df269e6feb4667841ae8babbe93258ca
+      internalID: 6499486622245984091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 97
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d605e39e032c4468700e6ff6e23a97
+      internalID: -7253850259180040234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ca96c1d4fc73479911e31e6a966d3
+      internalID: 2504358206743381364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fdc8f1c26bf9a4d8cacd33844d7905
+      internalID: 683446861094237944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294484a1cf385947acb8ebf142a3eac
+      internalID: 5527971074608279421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0860e998d41e47b3d2b5e0b24f045
+      internalID: 8980281885721619688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 97
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ff09e6a4c95074cac5f974d4579936
+      internalID: -2827823114085176034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 97
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5f36e8ed85914eaf6ad981c6f7dc1
+      internalID: -6653466875436765830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c4db94fd047b4a8ceba4e95a701c2
+      internalID: 5963184469595513029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_143
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfedf5dc4db06734d9162349a194de58
+      internalID: 1763494443916590763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_144
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a932e1af8fcc45a070ce43040811e
+      internalID: 4569146198851801596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_145
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fdbf4412037ef45bb905df5b279c10
+      internalID: 842968378708672268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_146
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b4cd2eacf5cd45b0ca0c3fb687fe6
+      internalID: 378716836188097690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_147
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a4dcb287ad3b14d8ad83c82b3ab0c4
+      internalID: 3667228776057698171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_148
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0697134a61fe32e4aa8c96da5c356f3d
+      internalID: 1050904197602796487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_149
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1abf71daebc2dc46b1b4a1d30cde081
+      internalID: 5234146182168660850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_150
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe62f671d86fa448099b121b01eb7f
+      internalID: -8930885329506095568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_151
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a83483102f480478f7c3c3336ef326
+      internalID: -5640321125371423986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65529105e62d1b840b0020a55252ee74
+      internalID: 8646936110911048671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_153
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddcab6380e761d42bb77e0702253ba1
+      internalID: -2087475054129414357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_154
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b0709dd31928a49b830c8c94058cd0
+      internalID: 3499116111234821248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_155
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc46f890a31ca49ae2bce0e753be62
+      internalID: 754068252233982514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_156
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147384e790efc641b56cf1647b862df
+      internalID: 3581376664695012673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_157
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e474c6428850404e9aa12a38fafa2da
+      internalID: 4125630853611700612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_158
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28cedc4bf7440742976b23edd58df50
+      internalID: -3458170411500738642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_159
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b87bdc59b8b54480e3a0d2dfed99a
+      internalID: 1047623196395519484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_160
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3a11b8208a6864b85039d9e5313842
+      internalID: -3232958096213600309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_161
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a27b32c5b84e4cb70ffab74a6c72a
+      internalID: 952531764551162394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_162
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5560248462fc4b408e087cdb28ab3db
+      internalID: 9107746490973858797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_163
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 37
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb03c3ce18e196d4fb3e1a33b865cce7
+      internalID: -6385228213344589468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_164
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8e1df8158af084ebca9c11b83dcd2d
+      internalID: -189465576717899426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_165
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9a6bb7c66a50547bfb39cf3e32ec43
+      internalID: 724027751430037776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_166
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb06fb93b9e96ef49b9b95713cbb918f
+      internalID: -3374618465495392474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_167
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3db8f08558257b429c3cddae3f000c1
+      internalID: 5547033024800664641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_168
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd88102a3532d44a883c4a07a95f99
+      internalID: -6322263619642630098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_169
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a280c1ac80f110f40b4421dc70c64571
+      internalID: -2244410468398012305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_170
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a440ee7c91f8bc43858eb7e4201077e
+      internalID: -5244434270255169445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: digimonicons-sheet_171
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14336ad9778d69641a691a51ba00f284
+      internalID: -4567805862706048022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
